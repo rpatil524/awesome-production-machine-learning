@@ -687,5 +687,5 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 # Contributors
 
 <a href="https://github.com/EthicalML/awesome-production-machine-learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=santifer/career-ops" />
+  <img src="https://contrib.rocks/image?repo=EthicalML/awesome-production-machine-learning" />
 </a>
